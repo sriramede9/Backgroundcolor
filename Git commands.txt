@@ -28,3 +28,5 @@ create git ignore file
 now open gitignore in the directory and add filenames.extensions you do not want to include
 
 also /foldername you do not want to enter
+
+now create repository and follow steps to push
