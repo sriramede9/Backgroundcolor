@@ -1,0 +1,24 @@
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.colorbtn {
+  padding: 0.25rem 0.5rem;
+  border: 3px solid #fefefe;
+  border-radius: 7px;
+  color: aquamarine;
+  background: cornflowerblue;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  cursor: pointer;
+  outline: none;
+}
+
+.colorbtn:hover{
+  background: cadetblue;
+  
+}
